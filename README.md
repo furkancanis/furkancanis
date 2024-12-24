@@ -5,7 +5,6 @@
 
 <h3 align="left">Skills</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" style="max-width: 100%;"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" style="max-width: 100%;"></a></p>
 
 <h3 align="left">Socials</h3>
 <p align="left">
