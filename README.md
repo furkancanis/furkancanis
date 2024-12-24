@@ -5,11 +5,7 @@
 
 <h3 align="left">Skills</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" style="max-width: 100%;"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.unrealengine.com/en-US/home" class="logo logo--has-icon "><!--?lit$089111973$-->
-					<img class="logo__img" fetchpriority="high" height="32" alt="Unreal Engine Logo" src="https://cms-assets.unrealengine.com/qiFQiyH6TiuMdOIA5yZJ" width="233">
-			  <!--?lit$089111973$-->
-					<img class="logo__img logo__img--icon" height="32" width="32" alt="Unreal Engine Logo" src="https://cms-assets.unrealengine.com/B8hDILAISampfm5yFOQA">
-			  </a> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" style="max-width: 100%;"></a></p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" style="max-width: 100%;"></a></p>
 
 <h3 align="left">Socials</h3>
 <p align="left">
