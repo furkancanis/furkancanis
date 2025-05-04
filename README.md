@@ -8,6 +8,6 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/furkancanis/" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/furkancaniş/" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/furkancanis_/" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p>
