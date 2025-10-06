@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-![Profile Views](https://komarev.com/ghpvc/?username=furkancanis)
 <p>👋 I am @furkancanis, I am 22 years old and a computer engineering student. 💻 I have been improving my software skills since I was 16 years old and constantly renewing myself in the fields of technology and entrepreneurship. 🚀 I focus on gaining in-depth knowledge and experience in the field of computer engineering by focusing on advanced technology areas such as software development, data science and artificial intelligence. 💡 I also follow innovative ideas within the entrepreneurship ecosystem and constantly improve myself to create value in the business world.  I also do pole vaulting at Galatasaray Sports Club.</p>
 
 
